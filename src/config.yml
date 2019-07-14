@@ -1,0 +1,42 @@
+CGroup:
+  Group1:
+    test1:
+      cmd:  spawn %count%
+      ignorePermission: true
+      Delay: 1.562
+      IsPlayer: true
+      Msg: "呵呵"
+    test2:
+      cmd:  give %player% 50 44
+      ignorePermission: true
+      Delay: 1.562
+      IsPlayer: true
+      Msg: "呵呵"
+    test3:
+      cmd:  give %player% 50 44
+      ignorePermission: true
+      Delay: 1.562
+      IsPlayer: true
+      Msg: "呵呵"
+  Group2:
+    test1:
+      cmd:  spawn
+      ignorePermission: true
+      Delay: 1.562
+      IsPlayer: true
+      Msg: "呵呵"
+    test2:
+      cmd:  give %player% 50 44
+      ignorePermission: true
+      Delay: 1.562
+      IsPlayer: true
+      Msg: "呵呵"
+    test3:
+      cmd:  give %player% 50 44
+      ignorePermission: true
+      Delay: 1.562
+      IsPlayer: true
+      Msg: "呵呵"
+PermissionCGroup:
+  Group1: test1.test22
+  Group2: test2.test22

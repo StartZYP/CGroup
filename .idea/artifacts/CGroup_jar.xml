@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CGroup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CGroup_jar</output-path>
+    <root id="archive" name="CGroup.jar">
+      <element id="module-output" name="CGroup" />
+    </root>
+  </artifact>
+</component>
